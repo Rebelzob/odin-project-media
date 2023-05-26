@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+
+main {
+  display: flex;
+}
+
+.logo-nav-bar{
+  width: 15%;
+  border-radius: 15%;
+}
+.navbar {
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.nav-bar-seach-bar{
+  border-radius: 50%;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.player {
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-size: 16px;
+  }
+
+.player-container {
+    width: 560px;
+    height: 315px;
+  }
+
+.player-thumbnail {
+    width: 120px;
+    height: 90px;
+    float: left;
+  }
